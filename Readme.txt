@@ -1,4 +1,4 @@
-🚆 Rail Pass Management System
+Rail Pass Management System using PHP and MySQL
 
 A web-based Railway Pass Management System developed using PHP and MySQL. 
 The system is designed to manage railway pass records and simplify the process 
