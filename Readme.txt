@@ -1,10 +1,10 @@
-# 🚆 Rail Pass Management System
+🚆 Rail Pass Management System
 
 A web-based Railway Pass Management System developed using PHP and MySQL. 
 The system is designed to manage railway pass records and simplify the process 
 of issuing and viewing railway passes.
 
-## 📌 Project Overview
+📌 Project Overview
 
 The Rail Pass Management System provides an online platform for managing railway 
 passes and related records. It helps reduce paperwork and makes railway pass 
@@ -15,7 +15,7 @@ The application contains two main modules:
 - Admin Module
 - User Module
 
-## 🎯 Objectives
+🎯 Objectives
 
 - Manage railway pass records digitally
 - Reduce manual paperwork
@@ -23,25 +23,25 @@ The application contains two main modules:
 - Allow users to view their railway passes
 - Provide administrators with tools to manage passes and enquiries
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
-### Frontend
+Frontend
 - HTML
 - CSS
 - Bootstrap
 - jQuery
 
-### Backend
+Backend
 - PHP
 
-### Database
+Database
 - MySQL
 
-### Development Environment
+Development Environment
 - XAMPP
 - VS Code
 
-## 👨‍💼 Admin Module
+👨‍💼 Admin Module
 
 The administrator can:
 
@@ -57,7 +57,7 @@ The administrator can:
 - Change password
 - Recover password
 
-## 👤 User Module
+👤 User Module
 
 Users can:
 
@@ -67,16 +67,16 @@ Users can:
 - View About Us information
 - Contact the website administrator
 
-## 🗄️ Database
+🗄️ Database
 
 The project uses **MySQL** for storing and managing railway pass-related 
 information.
 
 The database can be imported using the provided SQL database file.
 
-## 🚀 How to Run
+🚀 How to Run
 
-### Prerequisites
+Prerequisites
 
 Install:
 
@@ -85,7 +85,7 @@ Install:
 - MySQL
 - Web browser
 
-### Installation
+Installation
 
 1. Clone or download this repository.
 2. Copy the project folder into:
