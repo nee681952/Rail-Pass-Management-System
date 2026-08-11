@@ -21,5 +21,3 @@ Password: Test@123
 
 Already Created Pass No: 305788314
 
-
-For More Details visit: https://phpgurukul.com/
